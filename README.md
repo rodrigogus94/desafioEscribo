@@ -1,2 +1,3 @@
 # desafioEscribo
-teste
+Instrução para poder executar a função.
+
